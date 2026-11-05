@@ -16,6 +16,7 @@ This folder exists only on the `integration` branch and never goes upstream.
 | `search-panel-results` | `SearchPanel.SearchResults` and `SearchResultsChanged` | [AvaloniaUI/AvaloniaEdit#624](https://github.com/AvaloniaUI/AvaloniaEdit/pull/624) |
 | `undo-continue-after-save` | `MarkAsOriginalFile` keeps an undo boundary | [AvaloniaUI/AvaloniaEdit#625](https://github.com/AvaloniaUI/AvaloniaEdit/pull/625) |
 | `line-commands` | `MoveLinesUp`, `MoveLinesDown`, `DuplicateLines` | [AvaloniaUI/AvaloniaEdit#626](https://github.com/AvaloniaUI/AvaloniaEdit/pull/626) |
+| `caret-navigation` | Public `CaretMovementType` and `CaretNavigation.GetNewCaretPosition` (not merged here yet) | [AvaloniaUI/AvaloniaEdit#627](https://github.com/AvaloniaUI/AvaloniaEdit/pull/627) |
 
 ## Keeping it current
 
